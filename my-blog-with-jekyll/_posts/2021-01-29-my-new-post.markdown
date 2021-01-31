@@ -1,18 +1,14 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2021-01-29 18:20:10 +0000
-categories: jekyll update
+title:  "It's my first post"
+date:   2021-01-31 18:20:10 +0000
+categories: plugin
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+`Hello World!` 
 
-Jekyll requires blog post files to be named according to the following format:
+My first blog, my first post. The idea of this blog is show plugins, tools and help developers that using Intellij, PhpStorm, WebStorm and all family of IDE's of Jetbrains.
 
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
+I will share my experience with news plugins, and I hope it will be helpful for the reader.
 
 {% highlight ruby %}
 def print_hi(name)
@@ -25,5 +21,3 @@ print_hi('Tom')
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
